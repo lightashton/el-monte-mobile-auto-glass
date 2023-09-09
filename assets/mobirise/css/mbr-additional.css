@@ -29,7 +29,7 @@ body {
 }
 .display-2 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 4rem;
+  font-size: 50px !important;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
@@ -1423,6 +1423,7 @@ a {
 }
 .cid-tP7hUkUM40 .mbr-section-title {
   color: #000000;
+  font-size: 50px !important;
 }
 .cid-tP7hUkUM40 .mbr-text,
 .cid-tP7hUkUM40 .mbr-section-btn {
@@ -1683,7 +1684,8 @@ a {
   text-align: left;
 }
 .cid-tP7rtdGexc .copyright {
-  color: #000000;
+  color: #ffffff;
+  font-size: 16px !important;
 }
 .cid-tP7BzredxY {
   padding-top: 3rem;
@@ -1729,4 +1731,15 @@ a {
 .cid-tP7BzredxY .card-box {
   text-align: center;
   color: #2e481a;
+}
+
+
+li.soc-item {
+    display: inline-block;
+    position: relative;
+    right: 30px;
+}
+
+li.mbr-text.item-wrap {
+    font-size: 18px !important;
 }
