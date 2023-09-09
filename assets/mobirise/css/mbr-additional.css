@@ -52,8 +52,8 @@ body {
   font-size: 3.125rem;
 }
 .display-7 {
-  font-family: 'Inter Tight', sans-serif;
-  font-size: 1.4rem;
+  font-family: Roboto;
+  font-size: 21px !important;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
@@ -1378,6 +1378,8 @@ a {
 .cid-tP7joQrYxO .mbr-section-btn {
   color: #000000;
   text-align: center;
+  font-size: 21px !important;
+    font-family: roboto;
 }
 .cid-tP7joQrYxO .card-title,
 .cid-tP7joQrYxO .card-box {
@@ -1425,6 +1427,8 @@ a {
 .cid-tP7hUkUM40 .mbr-text,
 .cid-tP7hUkUM40 .mbr-section-btn {
   color: #000000;
+    font-size: 21px !important;
+    font-family: roboto;
 }
 .cid-tPke0nj2yu {
   padding-top: 6rem;
@@ -1494,6 +1498,8 @@ a {
 .cid-tPkfgPTwDt .mbr-section-btn {
   color: #000000;
   text-align: left;
+  font-family: Roboto;
+  font-size: 21px !important;
 }
 .cid-tPkfgPTwDt .card-title,
 .cid-tPkfgPTwDt .card-box {
